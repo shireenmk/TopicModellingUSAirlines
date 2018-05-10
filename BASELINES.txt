@@ -1,0 +1,5 @@
+Author : Radhika
+
+For the baseline model, in order to compare our results we have annotated a set of 60 random tweets, 10 of each airlines.
+According to that we achieved an 83.33% accuracy which means that approximately 50 tweets out of 60 have been correctly labeled by our model.
+Please refer to the file human annotated.xlsx to view the baseline model.

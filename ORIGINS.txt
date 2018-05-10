@@ -1,0 +1,8 @@
+Author : Radhika
+
+Origins:
+The origin of our dataset is kaggle.
+Following is the link
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment/data
+
+Download Tweets.csv
